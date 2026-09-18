@@ -4,7 +4,7 @@
     <title>Meditational Medicine</title>
     <link>https://dondadahdidit.github.io/meditational-medicine-podcast/</link>
     <language>en-us</language>
-    <description>Daily relaxation sessions — 432Hz ambient pads, soft piano, and nature sounds for sleep, stillness, and stress relief. A full-length session most days, and an extended deep-sleep special every Sunday.</description>
+    <description>Daily relaxation sessions -- 432Hz ambient pads, soft piano, and nature sounds for sleep, stillness, and stress relief.</description>
     <itunes:author>Meditational Medicine</itunes:author>
     <itunes:owner><itunes:name>Meditational Medicine</itunes:name><itunes:email>mr.nickchilds@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://dondadahdidit.github.io/meditational-medicine-podcast/artwork.jpg" />
@@ -12,5 +12,40 @@
     <itunes:category text="Music" />
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://dondadahdidit.github.io/meditational-medicine-podcast/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>Drift Off Tonight 🌙 1 Min 432Hz Sleep Music</title>
+      <description>Settle in and breathe. "Celestial Drift" blends warm ambient pads tuned to 432Hz, soft piano, a slow drift through starlight, and a subtle theta-wave binaural undertone to guide you into deep calm.
+
+Perfect for:
+🧘 Meditation &amp; breathwork
+😴 Stress relief and deep relaxation
+📖 Quiet focus, reading, or journaling
+🌙 Winding down before sleep
+
+What you're hearing:
+• Ambient pads in 432Hz tuning — warm, slowly evolving harmonies
+• Soft piano — sparse, gentle melodies
+• A slow drift through starlight
+• Theta binaural undertone — headphones recommended for the full effect
+
+Find a comfortable position, breathe slowly, and let the sound carry you.
+
+New meditation music every day — subscribe so you never miss a session. 🙏
+
+🌿 Stay connected:
+Instagram → https://www.instagram.com/mymeditationalmedicine/
+All sessions → https://www.youtube.com/@Meditationalmedicine
+
+📖 My new book, "Meditational Medicine: Stillness for Beginners," is out now on Amazon -- Kindle (free with Kindle Unlimited) and paperback. If you've ever tried meditation and given up, this is the guide I wish I'd had: 9 simple techniques, a day-by-day 30-day plan, and guided scripts for sleep, anxiety, and calm. Search the title on Amazon to grab your copy.
+
+#meditation #432hz #meditationmusic #relaxingmusic #sleepmusic #deeprelaxation #binauralbeats #calm #mindfulness
+</description>
+      <pubDate>Fri, 18 Sep 2026 03:23:22 +0000</pubDate>
+      <enclosure url="https://dondadahdidit.github.io/meditational-medicine-podcast/episodes/2026-09-17.mp3" length="481115" type="audio/mpeg" />
+      <guid isPermaLink="false">meditational-medicine-2026-09-17</guid>
+      <itunes:duration>00:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
