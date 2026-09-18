@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meditational Medicine</title>
+    <link>https://dondadahdidit.github.io/meditational-medicine-podcast/</link>
+    <language>en-us</language>
+    <description>Daily relaxation sessions — 432Hz ambient pads, soft piano, and nature sounds for sleep, stillness, and stress relief. A full-length session most days, and an extended deep-sleep special every Sunday.</description>
+    <itunes:author>Meditational Medicine</itunes:author>
+    <itunes:owner><itunes:name>Meditational Medicine</itunes:name><itunes:email>mr.nickchilds@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://dondadahdidit.github.io/meditational-medicine-podcast/artwork.jpg" />
+    <image><url>https://dondadahdidit.github.io/meditational-medicine-podcast/artwork.jpg</url><title>Meditational Medicine</title><link>https://dondadahdidit.github.io/meditational-medicine-podcast/</link></image>
+    <itunes:category text="Music" />
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://dondadahdidit.github.io/meditational-medicine-podcast/feed.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
